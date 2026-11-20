@@ -1,0 +1,65 @@
+File Handling in C
+This repository contains C programming exercises focused on file handling, data storage, and data retrieval. The activities explore working with text files, binary files, structures, and file operations
+ Library Book Records (Text File)
+
+A program that allows a librarian to enter borrowed book titles and store them in a text file named "borrowed_books.txt".
+
+The program:
+
+- Accepts book titles from the user.
+- Stores book titles in a text file.
+- Preserves existing records when new titles are added.
+- Displays a confirmation message when a book title is successfully stored.
+
+Q2. Student Examination Records (Binary File)
+
+A program that stores student examination results in a binary file named "results.dat".
+
+Each record contains:
+
+- Student name
+- Registration number
+- Total marks
+
+The program:
+
+- Defines a structure to store student information.
+- Reads student records from the binary file.
+- Displays each student's name and marks on the screen.
+
+Q3. Sales Transaction Records (Text File)
+
+A program that reads daily sales transactions from a text file named "sales.txt".
+
+The program:
+
+- Reads all sales transactions stored in the file.
+- Calculates the total sales for the day.
+- Displays the total sales amount.
+- Ensures the file is properly closed after reading.
+
+Concepts Practised
+
+- File handling in C
+- Opening and closing files
+- Reading from files
+- Writing to files
+- Appending data to files
+- Text files
+- Binary files
+- Structures
+- File pointers
+- Data storage and retrieval
+- File management
+
+Programming Language
+
+- C Programming
+
+Learning Objectives
+
+The purpose of these exercises is to understand how C programs store information permanently in files, retrieve stored data, process records, and manage files using different file-handling techniques.
+
+---
+
+Learning. Practising. Building. Improving.
